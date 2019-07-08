@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "events": [
+    { "id": 1, "title": "Parklands Loop", "distance": 25, "distanceUnits": "mi", "dateTime": "2019-07-09 T09:00", "lat": 38.2818873, "lng": -85.5600392 },
+    { "id": 2, "title": "Tuesday Night Worlds", "distance": 50, "distanceUnits": "mi", "dateTime": "2019-07-09 T18:00", "lat": 38.253857, "lng": -85.652872 },
+    { "id": 3, "title": "Bridge to Bridge", "distance": 30, "distanceUnits": "mi", "dateTime": "2019-07-10 T09:15", "lat": 38.247041, "lng": -85.652872 },
+    { "id": 4, "title": "Ridenfaden", "distance": 40, "distanceUnits": "mi", "dateTime": "2019-07-10 T17:30", "lat": 38.236507, "lng": -85.709597 },
+    { "id": 5, "title": "Fruit Ride", "distance": 70, "distanceUnits": "mi", "dateTime": "2019-07-11 T17:30", "lat": 38.2818873, "lng": -85.5600392 },
+    { "id": 6, "title": "Middletown South", "distance": 40, "distanceUnits": "mi", "dateTime": "2019-07-13 T07:00", "lat": 38.2459286, "lng": -85.5238143 },
+    { "id": 7, "title": "Vic's", "distance": 30, "distanceUnits": "mi", "dateTime": "2019-07-14 T09:00", "lat": 38.2032955, "lng": -85.7371132 }
+  ]
 }
